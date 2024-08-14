@@ -1,5 +1,5 @@
 # To-Do_ListApp
-## Live Site url: 
+## Live Site url: https://satwik1624.github.io/To-Do_ListApp/
 
 To-Do List App have a dynamic and responsive UI that allows you to create several to-do
 lists for daily tasks and easily add or remove items from the list. For this project, I have used HTML, CSS, JavaScript and Bootstrap. Furthermore, the
